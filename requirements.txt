@@ -1,0 +1,23 @@
+# Core dependencies
+rich>=10.16.2
+Pillow>=9.0.0
+watchdog>=2.1.9
+pyyaml>=6.0
+click>=8.0.0
+python-dotenv>=0.19.0
+
+# UI and styling
+textual>=0.1.18
+prompt_toolkit>=3.0.20
+
+# Image processing
+numpy>=1.22.0
+click
+numpy
+Pillow
+prompt_toolkit
+python-dotenv
+pyyaml
+rich
+textual
+watchdog
