@@ -2,7 +2,7 @@
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)](https://github.com/RenzMc/XSHOT)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)](https://github.com/RenzMc/XSHOT-BY-RENZ)
 
 XShot is a powerful, highly customizable screenshot enhancement tool built in Python that transforms your ordinary screenshots into professional, polished images. Perfect for developers, content creators, and anyone who wants to make their screenshots stand out.
 
@@ -51,11 +51,12 @@ XShot is a powerful, highly customizable screenshot enhancement tool built in Py
 
 ### 🖥 **Operating System Support**
 
-| OS | Support | Tested Versions |
-|---|---|---|
+| OS        | Support        | Tested Versions                               |
+|-----------|----------------|-----------------------------------------------|
 | **Linux** | ✅ Full Support | Ubuntu 20.04+, Debian 11+, Arch Linux, Fedora 35+ |
-| **macOS** | ✅ Full Support | macOS 11.0+ (Big Sur and later) |
-| **Windows** | ✅ Full Support | Windows 10/11 (with WSL recommended) |
+| **macOS** | ✅ Full Support | macOS 11.0+ (Big Sur and later)               |
+| **Windows** | ✅ Full Support | Windows 10/11 (with WSL recommended)          |
+| **Termux** | ✅ Full Support | Android 7.0+ (Tested on Termux latest version) |
 
 ### 📋 **System Requirements**
 
@@ -71,7 +72,7 @@ XShot is a powerful, highly customizable screenshot enhancement tool built in Py
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/RenzMc/XSHOT.git
+git clone https://github.com/RenzMc/XSHOT-BY-RENZ.git
 cd XSHOT/xshot
 ```
 
@@ -424,7 +425,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Bug Reports**: [GitHub Issues](https://github.com/RenzMc/XSHOT/issues)
+- **Bug Reports**: [GitHub Issues](https://github.com/RenzMc/XSHOT-BY-RENZ/issues)
 - **Community**: [Discord Server](https://discord.gg/xshot) (Coming Soon)
 
 ## 🙏 Acknowledgments
@@ -444,7 +445,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Transform your screenshots into professional masterpieces with XShot!*
 
-[![GitHub Stars](https://img.shields.io/github/stars/RenzMc/XSHOT?style=social)](https://github.com/RenzMc/XSHOT/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/RenzMc/XSHOT?style=social)](https://github.com/RenzMc/XSHOT/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/RenzMc/XSHOT?style=social)](https://github.com/RenzMc/XSHOT-BY-RENZ/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/RenzMc/XSHOT?style=social)](https://github.com/RenzMc/XSHOT-BY-RENZ/network/members)
 
 </div>
